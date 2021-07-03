@@ -1,0 +1,26 @@
+{
+  "name": "ClimaApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyaliciaflores/ClimaApp.git"
+  },
+  "keywords": [],
+  "author": "Alicia Flores <floresalvarado.alicia@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soyaliciaflores/ClimaApp/issues"
+  },
+  "homepage": "https://github.com/soyaliciaflores/ClimaApp#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.1.1"
+  }
+}
